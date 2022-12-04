@@ -1,0 +1,10 @@
+__pycache__/
+datasets/
+outputs/distill/rte_finetune/
+outputs/distill/rte_finetune_aug/
+outputs/distill/rte_prompt/
+outputs/distill/rte_prompt_aug/
+outputs/prune/ft_rte/
+outputs/prune/ft_prompt_rte/
+knowledgable_tickets/
+plms/
